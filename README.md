@@ -1,0 +1,2 @@
+# SimpleAssets
+Simple assets management
